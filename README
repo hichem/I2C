@@ -1,0 +1,2 @@
+I2C Slave and Master Designs in SystemC
+Files main.c and testbench.c are testbenches that initialize the modules, run and save the simulation output into a vcd file.
